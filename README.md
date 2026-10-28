@@ -18,7 +18,7 @@
 leonardo@infra:~$ neofetch
 
          .--.                Usuário   : Leonardo Poiatti
-        |o_o |               Atuação   : Suporte | Infra | Dev | DB
+        |o_o |               Atuação   : Suporte | Infra | DB
         |:_/ |               Sistemas : Linux | Windows Server
        //   \ \              Virtual. : Proxmox VE | Docker
       (|     | )             Serviços : GLPI | Zabbix | Apache
