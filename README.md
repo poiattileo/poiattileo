@@ -1,22 +1,41 @@
-<h1 align="center">👋 Olá, eu sou Leonardo Poiatti</h1>
-<h3 align="center">💻 Analista de Suporte | Infraestrutura | Desenvolvimento | Banco de Dados</h3>
+<div align="center">
 
-<p align="center">
-Atuo com tecnologia em ambientes corporativos, com experiência em infraestrutura, servidores Linux e Windows, virtualização, sistemas web, GLPI, bancos de dados e automação de processos.
-<br>
-Gosto de transformar necessidades reais da operação em soluções simples, integradas e fáceis de manter.
-</p>
+# 🐧 Leonardo Poiatti
 
-<p align="center">
-  <a href="mailto:asasdeltasevida@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/poiattileo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+**Analista de Suporte • Infraestrutura • Desenvolvimento • Banco de Dados**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Linux+%7C+Windows+Server+%7C+Proxmox;GLPI+%7C+Zabbix+%7C+Docker;Oracle+%7C+SQL+Server+%7C+MySQL;Automacao+%7C+Desenvolvimento+%7C+Infraestrutura" alt="Áreas de atuação" />
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asasdeltasevida@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poiattileo)
+[![Projetos](https://img.shields.io/badge/URE--JALES--GLPI-00897B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/URE-JALES-GLPI)
+
+</div>
+
+## 💻 Terminal
+
+```text
+leonardo@infra:~$ neofetch
+
+         .--.                Usuário   : Leonardo Poiatti
+        |o_o |               Atuação   : Suporte | Infra | Dev | DB
+        |:_/ |               Sistemas : Linux | Windows Server
+       //   \ \              Virtual. : Proxmox VE | Docker
+      (|     | )             Serviços : GLPI | Zabbix | Apache
+     /'\_   _/`\             Bancos   : Oracle | SQL Server | MySQL
+     \___)=(___/             Objetivo : Soluções simples e integradas
+
+leonardo@infra:~$ echo "Transformando problemas em soluções."
+Transformando problemas em soluções.
+```
+
+Atuo com tecnologia em ambientes corporativos, com experiência em infraestrutura, servidores Linux e Windows, virtualização, sistemas web, GLPI, bancos de dados e automação de processos. Gosto de transformar necessidades reais da operação em soluções simples, integradas e fáceis de manter.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-**Infraestrutura**
+### 🖥️ Infraestrutura
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -28,22 +47,21 @@ Gosto de transformar necessidades reais da operação em soluções simples, int
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Desenvolvimento**
+### 💻 Desenvolvimento
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Sistemas & Plataformas**
+### ⚙️ Sistemas & Plataformas
 
 ![GLPI](https://img.shields.io/badge/GLPI-D3232B?style=flat-square&logo=glpi&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
-**Banco de Dados**
+### 🗄️ Banco de Dados
 
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -52,7 +70,7 @@ Gosto de transformar necessidades reais da operação em soluções simples, int
 
 ---
 
-### 💼 Projetos Profissionais
+## 💼 Projetos Profissionais
 
 > Projetos desenvolvidos e implantados em ambiente corporativo através da organização [**URE-JALES-GLPI**](https://github.com/URE-JALES-GLPI).
 
@@ -143,19 +161,19 @@ A solução utiliza Node.js para comunicação com o WhatsApp e integra a interf
 
 ---
 
-### 🏗️ Como gosto de trabalhar
+## 🏗️ Como gosto de trabalhar
 
-```
+```text
 Problema real
-     ↓
+    ↓
 Análise do processo
-     ↓
+    ↓
 Automação / Desenvolvimento
-     ↓
+    ↓
 Integração com ambiente existente
-     ↓
+    ↓
 Implantação
-     ↓
+    ↓
 Monitoramento e manutenção
 ```
 
@@ -163,25 +181,36 @@ Busco desenvolver soluções que não apenas funcionem, mas que também sejam pr
 
 ---
 
-### 📊 Áreas de interesse
+## 📊 Áreas de interesse
 
 🖥️ Infraestrutura de TI · 🐧 Administração Linux · 🪟 Windows Server / Active Directory · ☁️ Virtualização e servidores · 🐳 Docker · 🎫 GLPI e gestão de serviços de TI · 🗄️ Banco de Dados · 🔧 Desenvolvimento de ferramentas internas · 🤖 Automação de processos · 🔗 Integração entre sistemas
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poiattileo&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poiattileo&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=poiattileo&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=poiattileo&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+### 🐍 Contribuições animadas
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poiattileo/poiattileo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poiattileo/poiattileo/output/github-snake.svg" />
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/poiattileo/poiattileo/output/github-snake.svg" />
+</picture>
+
+</div>
 
 > 💡 Os projetos profissionais estão organizados na organização [**URE-JALES-GLPI**](https://github.com/URE-JALES-GLPI). Alguns foram desenvolvidos para uso corporativo e podem possuir regras específicas de utilização, distribuição e manutenção.
 
 ---
 
-<p align="center">
-⭐ Sempre buscando transformar problemas do dia a dia em soluções de tecnologia.
-</p>
+<div align="center">
+
+⭐ **Sempre buscando transformar problemas do dia a dia em soluções de tecnologia.**
+
+</div>
